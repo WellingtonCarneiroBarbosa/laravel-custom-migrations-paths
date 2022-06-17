@@ -17,5 +17,4 @@ Just add your custom migrations paths to the configuration file config/custom_mi
 If you are using the default path database/migrations you don't need do nothing.
 
 > This package supports: database/migrations/users/create_users_table.php
-
 > This package does not supports: database/migrations/users/create/create_users.php (I wanna add this later)
